@@ -1,0 +1,29 @@
+bin
+obj
+ipch
+BrylyObrotowe/BrylyObrotowe.sdf
+BrylyObrotowe/BrylyObrotowe.opensdf
+Debug
+Release
+packages
+.vs/*
+*.suo
+*.sqlite
+
+% pliki latex
+*.dvi
+*.pdf
+*.undo
+*.bat
+*.log
+*.aux
+*.bbl
+*.gz
+*.blg
+*.toc
+*.out
+*.lof
+*-blx.bib
+mgr/praca.run.xml
+
+! packages/repositories.config
